@@ -1,0 +1,9 @@
+# arquivos do jogo e derivados — não versionar
+src/
+batches/
+out/
+dist/
+gender/
+pt.bak-before-unify/
+__pycache__/
+*.pyc

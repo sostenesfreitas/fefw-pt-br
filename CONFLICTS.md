@@ -1,0 +1,55 @@
+# Divergências a unificar na passada final (termo oficial = primeiro)
+- Heart Core: Núcleo Cardíaco (005, 000q, 000k) | Núcleo-Coração (000h, 000n)
+- The Beginning (Sothis): O Começo (000a) | O Princípio (000k)
+- Underworld Boon: Dádiva do Submundo (000n) | Bênção do Submundo (000k)
+- Antitoxin: Antídoto (000h) | Antitoxina (000n)
+- Flame Lord: Lorde das Chamas | "Lordes da Chama" (119, uma ocorrência)
+- Vandahl Trading Company: Companhia de Comércio Vandahl (000n) | Companhia Vandahl (000k) | Cia. Comercial Vandahl (001/120)
+- Guardians of the Compass: Guardiões da Bússola (005) | Guardião(ã) da Bússola (000k)
+- Sweetie (Esmeralda → Dietrich): Querido (005, 001) | Fofo (002-004)
+- Hero's Relic: Relíquia de Herói (005, 000k) | Relíquia Heroica (002-004)
+- Great Undoing: Grande Ruína (000n, 000q) | Grande Colapso (002-004)
+- Arc (arma de templo): Arca (005) | Arc (002-004)
+- Killing Edge: Gume Mortal (000c) | Fio Mortal (000g)
+- Arc / Supreme Arc (arma): Arca (005,017) | Arco / Arco Supremo (000g, 000c) | Arc (002-004)  → decidir: "Arca", "Arca Suprema"
+- Trigger %: Ativação % = X (000k, 000n) | % de ativação = X (000g)
+- Perform at the destination: Dance no destino (000c) | Apresente-se no destino (000g)
+- Arcs: 014-016 usaram "Arcos"; decisão final: Arca / Arcas / Arca Suprema (evita confusão com arco = bow); corrigir 000c, 000g, 000n, 014-016
+- Saint Cichol: Santo Cichol (008-010) | São Cichol (011-016) → São Cichol
+- boss (→ Theodora): chefa (014-016) | chefe (011-013) → chefa
+- Sweetie → Dietrich: Querido | Meu Bem (011-013) | Fofo (002-004) → Querido
+- Guzran: Guzran Imortal (000k, 038) | Guzran Imatável (044-046) → Guzran Imortal
+- Mad Dog: Cão Raivoso (017, 020) | Cão Louco (044) → Cão Raivoso
+- Swashbuckler King: Rei Bucaneiro (000k) | Rei Espadachim (044) → Rei Bucaneiro
+- Rose Pageant: Concurso da Rosa (017) | Certame da Rosa (044) → Concurso da Rosa
+- Patron-Huntress: Caçadora Padroeira (000n) | Caçadora Protetora (044) → Caçadora Padroeira
+- Vandahl: Comercial Vandahl (026-028 forma curta)
+- cat priest (Orchel): sacerdotisa gata (023-025) | sacerdote gato (029-031, 000a) → sacerdotisa gata (Orchel é mulher)
+- warding chain: corrente protetora (015, 026) | corrente de proteção (029-031) → corrente protetora
+- boss → Theodora: chefe (029-031) → chefa
+- progenitor god Sothis: deusa progenitora (maioria) | Deus Progenitor Sothis (032-034) → deusa progenitora (Sothis é "she")
+- Saint Cichol: Santo Cichol também em 032-034 → São Cichol
+- 10 Elites (of Fódlan): 10 Elites de Fódlan (002-010) | 10 de Elite (068-070) → 10 Elites de Fódlan
+- 071-073: "Pa—digo, a Balor" → Balor é masculino: "Pa—digo, o Balor" (conferir)
+- Corundum Centurio: Centurio Corindo | Centurio, o Corindo (071-073) → Centurio Corindo
+- Viceroy Balboa → Vice-rainha Balboa (056-058): confirmar gênero de Balboa
+- SE_Fab_Naz_CB / SE_Naz_*: parceiro 'Naz' (provavelmente Nasshim) tratado como masculino em 086-088; confirmar gênero
+- chief celestial general: general celestial chefe | general-chefe (089-091) → general celestial chefe
+- 089: "Prazer em revê-lo" e "o aclama Prometido" dirigidos ao jogador → tornar neutros ("Prazer em ver você de novo")
+- Great August: Grande August | Grande Augusto → Grande August
+- Baw haw haw (Tobias): Ho ho ho (086-088) | Bua há há (092-094) → escolher um
+- bloodmark: marca de sangue | Marca de Sangue (092-094) → minúscula no meio da frase
+- Great August: 098-100 usou "Grande Augusto" em tudo; 092-094 e 077-079 usaram "Grande August" → decidir um (proposta: Grande Augusto)
+- Dante é MULHER (047, 100): corrigir "o famoso escritor" e afins para "a famosa escritora/autora" onde for Dante
+- Baw haw haw: Ho ho ho | Bua há há | Buá rá rá → escolher um
+- Gáe Bolg: um lote escreveu "Góe Bolg" → Gáe Bolg
+- Halvin é MULHER: conferir lotes que a trataram como homem
+- Dante: SE_Tal_Dan_CB (107-109) usa masculino "grande autor" porque o EN usa "he" ali; checar se é outro personagem ou erro do EN
+- Garreg Mach Monastery: Monastério (011-013) | Mosteiro (107-109) → Mosteiro de Garreg Mach
+- Vandahl: "Companhia Vandahl" ainda aparece (107-109) → Cia. Comercial Vandahl
+- Fiery Wind (Sirocco): Vento Flamejante (104-106, 113-115) | Vento Ardente (101-103) → Vento Flamejante
+- Stage_Act 19: 'Mestre autora' → 'grande autora' (alinhar com 'grande autor/autora' usado para master auteur)
+- 120: Headhunter "Caça-Talentos" → Recrutador
+- 120: Smyrnos "A Erudita dos Feitiços" → o Erudito dos Feitiços (masculino)
+- 120: Kalla "Caçadora Protetora" → Caçadora Padroeira
+- Earthen Hurl: Lançamento Terreno | Arremesso Terreno/Terrestre → Lançamento Terreno
